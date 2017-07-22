@@ -15,6 +15,9 @@
   :serial T
   :components ((:file "package")
                (:file "parser")
+               (:file "identifier")
+               (:file "directives")
                (:file "documentation"))
   :depends-on (:plump
+               :cl-ppcre
                :documentation-utils))
