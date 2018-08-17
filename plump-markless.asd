@@ -10,7 +10,9 @@
   :author "Nicolas Hafner <shinmera@tymoon.eu>"
   :maintainer "Nicolas Hafner <shinmera@tymoon.eu>"
   :description "An implementation of the Markless document markup standard for Plump."
-  :homepage "https://github.com/Shinmera/plump-markless"
+  :homepage "https://Shinmera.github.io/plump-markless/"
+  :bug-tracker "https://github.com/Shinmera/plump-markless/issues"
+  :source-control (:git "https://github.com/Shinmera/plump-markless.git")
   :serial T
   :components ((:file "package")
                (:file "parser")
