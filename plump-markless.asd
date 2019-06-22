@@ -6,7 +6,7 @@
 
 (asdf:defsystem plump-markless
   :version "0.0.0"
-  :license "Artistic"
+  :license "zlib"
   :author "Nicolas Hafner <shinmera@tymoon.eu>"
   :maintainer "Nicolas Hafner <shinmera@tymoon.eu>"
   :description "An implementation of the Markless document markup standard for Plump."
