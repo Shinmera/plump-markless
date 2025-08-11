@@ -4,9 +4,9 @@
   :author "Yukari Hafner <shinmera@tymoon.eu>"
   :maintainer "Yukari Hafner <shinmera@tymoon.eu>"
   :description "An implementation of the Markless document markup standard for Plump."
-  :homepage "https://Shinmera.github.io/plump-markless/"
-  :bug-tracker "https://github.com/Shinmera/plump-markless/issues"
-  :source-control (:git "https://github.com/Shinmera/plump-markless.git")
+  :homepage "https://shinmera.com/docs/plump-markless/"
+  :bug-tracker "https://shinmera.com/project/plump-markless/issues"
+  :source-control (:git "https://shinmera.com/project/plump-markless.git")
   :serial T
   :components ((:file "package")
                (:file "parser")
